@@ -23,9 +23,10 @@ CodeAlpha_ImageGallery/
 
 ## 🧪 How to Use
 1. Clone this repository:
-git clone https://github.com/Kushgupta003/CodeAlpha_Basic_Calculator.git
-2. Open `index.html` in your browser.
+git clone https://github.com/imsushant13/CodeAlpha_ImageGallery.git
+2. Open `index.html` & `style.css`in your browser.
+3. Start building.
 
 
 ## 📸 Preview
-<img width="1659" height="804" alt="Screenshot 2025-07-13 143843" src="https://github.com/user-attachments/assets/790d1758-8051-4d01-b94b-47e2a070add5" />
+<img width="1659" height="804" alt="Screenshot 2025-07-19" src="https://github.com/imsushant13/CodeAlpha_ImageGallery/blob/master/image%20gallrey%20pic.png?raw=true" />
